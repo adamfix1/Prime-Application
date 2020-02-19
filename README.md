@@ -1,3 +1,3 @@
 # repository
 This is my first repository.
-Here's a bit about myself.
+I'm still learning how all this works.
